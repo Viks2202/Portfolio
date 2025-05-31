@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 const projects = [
   {
     id: 1,
-    title: 'Modern Portfolio Website',
+    title: 'Modern Portfolio',
     description:
-      'A sleek and responsive portfolio website showcasing my work, skills, and contact information. Built with React.js.',
+      'A responsive portfolio website showcasing my work, skills, and contact information. Built with React.js.',
     link: 'https://github.com/Viks2202/Portfolio',
   },
   {
@@ -12,7 +12,7 @@ const projects = [
     title: 'E-Commerce Website',
     description:
       'A full-featured e-commerce platform with product catalogs, shopping cart, and payment integration. Built using React, Node.js and MongoDB.',
-    link: 'https://github.com/vikassharma/ecommerce-website',
+    link: 'https://github.com/Viks2202/MINDPATH',
   },
 ];
 
@@ -23,7 +23,7 @@ const skills = [
   },
   {
     name: 'CSS',
-    topics: ['Flexbox', 'Grid', 'Responsive Design', 'Animations & Transitions', 'Sass/LESS'],
+    topics: ['Flexbox', 'Grid', 'Responsive Design', 'Animations & Transitions'],
   },
   {
     name: 'JavaScript',
