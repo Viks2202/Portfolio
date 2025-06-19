@@ -5,7 +5,7 @@ const projects = [
     title: 'Modern Portfolio',
     description:
       'A responsive portfolio website showcasing my work, skills, and contact information. Built with React.js.',
-    link: 'https://github.com/Viks2202/Portfolio',
+    link: 'https://portfolio-henna-chi-22.vercel.app/',
   },
   {
     id: 2,
@@ -528,15 +528,15 @@ function App() {
         </nav>
         <div className="social-icons" aria-label="Social media links">
           <a
-            href="mailto:viksr2202@gmail.com"
+            href="https://leetcode.com/u/VIKAS_SK/"
             className="social-link"
-            aria-label="Send email to Vikas Sharma"
+            aria-label="LeetCode profile of Vikas Sharma"
             target="_blank"
             rel="noopener noreferrer"
           >
-            {/* Email SVG */}
+            {/* LeetCode SVG */}
             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="28" height="28" aria-hidden="true">
-              <path d="M20 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2zm0 2.5L12 13 4 6.5V6h16v.5z"/>
+            <path d="M12 0C5.37 0 0 5.37 0 12c0 6.63 5.37 12 12 12s12-5.37 12-12S18.63 0 12 0zm0 22.5c-5.75 0-10.5-4.75-10.5-10.5S6.25 1.5 12 1.5 22.5 6.25 22.5 12 17.75 22.5 12 22.5zm-1.5-15h-3v3h3v-3zm0 4.5h-3v3h3v-3zm4.5 0h-3v3h3v-3zm0-4.5h-3v3h3v-3z"/>
             </svg>
           </a>
           <a
