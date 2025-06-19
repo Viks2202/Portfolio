@@ -14,6 +14,13 @@ const projects = [
       'A full-featured e-commerce platform with product catalogs, shopping cart, and payment integration. Built using React, Node.js and MongoDB.',
     link: 'https://github.com/Viks2202/MINDPATH',
   },
+   {
+    id: 3,
+    title: 'Game Hub',
+    description:
+      'Game Hub is a dynamic gaming platform built with React.js, offering a seamless and interactive experience for discovering and playing games.',
+    link: 'https://game-hub-sigma-virid.vercel.app/',
+  },
 ];
 
 const skills = [
