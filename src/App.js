@@ -345,7 +345,7 @@ export default function App() {
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 40, alignItems: 'start' }}>
             <div>
               <p style={{ color: '#94a3b8', lineHeight: 1.8, marginBottom: 20, fontSize: 15 }}>
-                I'm a <strong style={{ color: 'white' }}>Backend Developer</strong> from Delhi, India with an MCA from JIIT Rohini (GGSIPU). I specialize in building production-ready REST APIs using Node.js, Express.js, and MongoDB.
+                I'm a <strong style={{ color: 'white' }}>Backend Developer</strong> from Delhi, India with an MCA from JIMS Rohini (GGSIPU). I specialize in building production-ready REST APIs using Node.js, Express.js, and MongoDB.
               </p>
               <p style={{ color: '#94a3b8', lineHeight: 1.8, marginBottom: 20, fontSize: 15 }}>
                 I've built and deployed two complete projects — <strong style={{ color: '#e94560' }}>DevMart</strong> (full-stack e-commerce with Razorpay, AI recommendations, admin panel) and <strong style={{ color: '#3b82f6' }}>HireFlow</strong> (multi-role job board API with Swagger docs).
@@ -372,8 +372,8 @@ export default function App() {
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
               {[
-                { label: 'Education', value: 'MCA — JIIT Rohini (GGSIPU) | 89%', icon: '🎓' },
-                { label: 'Location', value: 'Delhi, India | Remote OK', icon: '📍' },
+                { label: 'Education', value: 'MCA — JIMS Rohini (GGSIPU) | 89%', icon: '🎓' },
+                { label: 'Location', value: 'Delhi, India | Open to Remote Opportunities', icon: '📍' },
                 { label: 'Experience', value: 'UI Developer Intern — Meritto', icon: '💼' },
                 { label: 'Status', value: 'Actively looking for opportunities', icon: '🟢' },
                 { label: 'Focus', value: 'Backend · Full Stack · REST APIs', icon: '⚙️' },
