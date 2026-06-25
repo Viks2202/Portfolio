@@ -29,7 +29,7 @@ const PROJECTS = [
     title: 'HireFlow — Job Board Platform',
     description: 'Multi-role job board API with candidate, employer, and admin roles. Features PDF resume upload, skill-based job recommendations, application tracking, email notifications, and API documentation.',
     tech: ['Node.js', 'Express', 'MongoDB', 'JWT', 'Cloudinary', 'Swagger', 'Nodemailer'],
-    live: 'https://hireflow-api.onrender.com',
+    live: 'https://hireflow-frontend-khaki.vercel.app/',
     docs: 'https://hireflow-api.onrender.com/api-docs',
     github: 'https://github.com/Viks2202/hireflow',
     type: 'Backend API',
