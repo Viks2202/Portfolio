@@ -41,7 +41,7 @@ const PROJECTS = [
     title: 'Game Hub',
     description: 'Dynamic gaming platform built with React.js offering seamless discovery and interactive experience for browsing games across multiple genres and platforms.',
     tech: ['React.js', 'CSS3', 'REST API'],
-    live: 'https://game-hub-sigma-virid.vercel.app/',
+    live: 'https://game-hub-wty3.vercel.app/',
     github: 'https://github.com/Viks2202',
     type: 'Frontend',
     color: '#10b981',
